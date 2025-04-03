@@ -1,2 +1,2 @@
 # graph-transformer-skeleton-action
-SpatioSpectral Transformer for Skeleton-Based Action Recognition
+A proof-of-concept Graph-based SpatioSpectral Transformer for Skeleton-Based Action Recognition.
